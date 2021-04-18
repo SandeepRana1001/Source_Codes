@@ -1,0 +1,14 @@
+
+/* cursor-color:rgba(255, 0, 0, 1);
+background-color:rgba(0,0,0,1);
+text-color: rgba(255,255,255,1)*/
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
